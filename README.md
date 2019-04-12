@@ -1,6 +1,6 @@
 # Predicting User Clicks
 
-This project is the IX Hackathon 2018 idea of the team I was a part of. As a member of the team I worked in performing the analysis on the data and creating the machine learning models. 
+This project is the Index Exchange Hackathon 2018 idea of the team I was a part of. As a member of the team I worked in performing the analysis on the data and creating the machine learning models. 
 Our idea was to predict if a particular user profile would click on a particular advertisement. We made use of predictive machine learning models to do this. 
 
 ## Data Used
@@ -35,7 +35,7 @@ To determine the feature vectors of the data, we had to perform an analsis on ea
 
 For example in this image above we see how the click counts vary by the hour of day. The clicks stay flat for most of the day, but then peak at 10pm, 11pm and midnight. This probably indicates deals that are ending at midnight. 
 
-![Click Count By Ad Slot Dimension](images/clickCountByadSlotDim.png)
+![Click Count By Ad Slot Dimension](images/clickCountByAdSlotDim.png)
 
 Another example is how the click count varies by the size of the ad. As can be seen bigger ads and medium sized ads are clicked more. 
 
